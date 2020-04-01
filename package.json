@@ -1,7 +1,7 @@
 {
-  "name": "@blksnk/scribe",
-  "version": "1.0.0",
-  "description": "innerText HTML parser",
+  "name": "html-scribe",
+  "version": "1.0.1",
+  "description": "Lightweight front-end HTML text parser",
   "main": "src/index.js",
   "author": {
     "name": "Jean-Nicolas Veigel",
